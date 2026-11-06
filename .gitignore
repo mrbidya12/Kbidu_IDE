@@ -1,0 +1,6 @@
+
+# Large files and generated dependencies
+llm/Cybersecurity_razz/model.safetensors
+all compiler/vs_buildtools.exe
+**/node_modules/
+desktop.ini
